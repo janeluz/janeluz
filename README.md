@@ -48,9 +48,11 @@ Estou comprometida em continuar buscando a excelência profissional e em contrib
     <img alt="React Hook Form" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React%20Hook%20Form.svg">
 </div>
 
+<br/>
+
  <div align="center">
    <a href="https://github.com/janeluz">
-   <img width="49%" height="195px"src ="https://github-readme-stats.vercel.app/api?username=janeluz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeluz&layout=compact&langs_count=7&theme=dracula"/>
+   <img width="49%" height="195px"src ="https://github-readme-stats.vercel.app/api?username=janeluz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeluz&layout=compact&langs_count=7&theme=github_dark"/>
  </div>
     
